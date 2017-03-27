@@ -1,5 +1,5 @@
 <?php
-
+namespace morsvox\GoogleAnalyticsApi;
 /**
  * GoogleAnalyticsAPI
  * Simple class which provides methods to set up OAuth 2.0 with Google and query the Google Analytics API v3 with PHP.
