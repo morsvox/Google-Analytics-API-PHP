@@ -36,7 +36,7 @@
  *
  *
  */
-class GoogleAnalyticsAPI {
+class GoogleAnalyticsApi {
 
 	const API_URL = 'https://www.googleapis.com/analytics/v3/data/ga';
 	const WEBPROPERTIES_URL = 'https://www.googleapis.com/analytics/v3/management/accounts/~all/webproperties';
