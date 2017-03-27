@@ -1,0 +1,20 @@
+{
+    "name": "morsvox/GoogleAnalyticsApi",
+    "description": "Easy way to use google analytics data in php",
+    "keywords": ["ga", "google"],
+    "homepage": "https://github.com/morsvox/GoogleAnalyticsApi",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Stefan Wanzenried",
+            "email": "dontknow@mail.com",
+            "homepage": "https://github.com/wanze"
+        }
+    ],
+    "require": {
+        "php": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {"morsvox\\GoogleAnalyticsApi\\": "src"}
+    },
+}
